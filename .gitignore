@@ -1,0 +1,4 @@
+training_examples.jsonl
+**.docx
+.env
+messenger-data/
